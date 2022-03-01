@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<!--
+Members: Kenneth Luck, Students, March 1, 2022
+-->
+
+<html lang="en">
+<meta charset="utf-8">
+
+  <header>
+  <h1></h1>
+  </header>
+
+  <nav>
+    <p></p>
+  </nav>
+
+  <main></main>
+
+  <html>
+  <title>This is my title.</title>
+  <body>
+
+  <h1>This is a heading</h1>
+  <p>This is a paragraph.</p>
+
+  <footer>
+  I'm adding content to the footer element.
+  </footer>
+
+</body>
+</html>
